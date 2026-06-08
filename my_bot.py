@@ -6,7 +6,7 @@ from pyrogram.types import (
 import requests
 import sqlite3
 
-BOT_TOKEN = "توکن_جدید_ربات"
+BOT_TOKEN = "8901777348:AAEcMwnzanBdr4jk_RYyP6YZ8211eh9uWt4"
 
 API_ID = 33624693
 API_HASH = "758e111d4262da0325760aec64149521"
